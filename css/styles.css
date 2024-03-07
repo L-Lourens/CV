@@ -4,11 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
-.explora-regular {
-	font-family: "Explora", serif;
-	font-weight: 400;
-	font-style: normal;
-  }
   
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -54,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.explora-regular {
+	font-family: "Explora", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
